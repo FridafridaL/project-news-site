@@ -32,7 +32,8 @@ I didn't understand at first that I should start to build for phones so I starte
 I realised that often when i got stuck with something and one thing worked but when I did it again it didn't work, I've missed a letter or something like that in the html file. It took me a while when I was looking but when I found it and solved the problem it was often a simple thing like that.
 
 
-------------------------unsolved problems--------------------------
+-----------------------unsolved problems--------------------------
+
 Problem Logo header:
 When I added the reset tag in the beginning of the css file ( copied it from the Q&A meeting) some other problems around the header got fixet. But the logo that was in the left corner is now missing and I can't make it to show up in the header.
 
@@ -51,8 +52,10 @@ I don't really find a good way to edit text. I don't really understand how I sho
 I tried some diffrent things but it didn't turn out very well. 
 How to structure text inside a div class. When I used h2 and p inside a class it all got very wierd.
 
+Media quires:
+I don't get the content to flow correctly with the responsive design. It just look wierd..
 
--------------------------------------------------------------------
+------------------------------------------------------------------
 
 Conclusion:
 
