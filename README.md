@@ -21,7 +21,7 @@ sources I've been using:
 -google
 -Q&A meeting
 
-------------------------solved problems----------------------------
+-----------------------solved problems----------------------------
 
 Margin around the dokument in the browser.
 During the Q&A I learned about the reset tag to use in the css file. This took away the preinstalled margins and styling that comes with chrome amongs other. When I added this it solved alot of small problems I couldn't understand. 
